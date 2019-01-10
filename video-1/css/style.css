@@ -1,6 +1,14 @@
 body{
-	background: green;
-	font-family: Arial;
+	padding: 10px;
+	background: red;
+	font-family: Verdana;
 	color: white;
 }
+
+p{
+	background-color: yellow;
+	color: black;
+	padding: 10px;
+}
+
 
